@@ -8,7 +8,7 @@ A production-ready Retrieval-Augmented Generation system that integrates with:
 - ChromaDB vector storage
 - Multilingual embeddings
 
-Author: Your Name
+Author: Enes Çetinberk
 Created: 2025
 License: MIT
 """
