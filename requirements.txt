@@ -1,0 +1,48 @@
+# Core RAG Framework
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-chroma>=0.1.0
+langchain-huggingface>=0.0.1
+
+# LLM Integration
+ollama>=0.1.7
+
+# Vector Database
+chromadb>=0.4.22
+
+# Embeddings and ML
+sentence-transformers>=2.2.2
+torch>=2.0.0
+transformers>=4.36.0
+
+# Document Processing
+pypdf>=3.17.0
+pymupdf>=1.23.0
+
+# Cloud Integration
+esdk-obs-python>=3.23.11
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# System Monitoring
+psutil>=5.9.0
+GPUtil>=1.4.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Web Framework (Optional)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.28.0
+
+# Development Tools (Optional)
+pytest>=7.4.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+
+# Type Checking
+typing-extensions>=4.8.0

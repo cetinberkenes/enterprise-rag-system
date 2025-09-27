@@ -1,0 +1,122 @@
+# Environment and Configuration
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+rag-system/
+
+# IDE and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+.nox/
+
+# Documentation
+docs/_build/
+.readthedocs.yml
+
+# Vector Databases and Models
+knowledge_base/
+chroma_db/
+tubitak_kvhs_knowledge/
+*.sqlite
+*.sqlite3
+
+# Downloaded PDFs and Documents
+*.pdf
+!examples/sample_*.pdf
+
+# Model Files and Caches
+.cache/
+models/
+*.bin
+*.safetensors
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary Files
+temp/
+tmp/
+*.tmp
+*.temp
+
+# ChromaDB
+chroma.sqlite3
+chroma.sqlite3-*
+
+# Hugging Face Cache
+.cache/huggingface/
+
+# Ollama
+.ollama/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Large Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Local Development
+local_test/
+sandbox/
+playground/
