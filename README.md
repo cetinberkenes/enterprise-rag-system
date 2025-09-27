@@ -360,10 +360,6 @@ python -c "import torch; print(torch.cuda.is_available())"
 - Use smaller model variant (8B instead of 13B)
 - Close other GPU-intensive applications
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
 ### Development Setup
 ```bash
 # Install development dependencies
@@ -389,11 +385,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LangChain** for RAG framework
 - **ChromaDB** for vector storage
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/enterprise-rag-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/enterprise-rag-system/discussions)
-- **Email**: your.email@example.com
 
 ## 🗺️ Roadmap
 
@@ -406,7 +397,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Docker containerization
 - [ ] Kubernetes deployment
 
----
-
-**⭐ Star this repository if you find it useful!**
->>>>>>> 652c009 (Initial project structure)
