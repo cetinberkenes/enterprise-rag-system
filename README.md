@@ -9,7 +9,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system that seamlessly i
 
 ## 🚀 Features
 
-- **🌐 Cloud Integration**: Direct integration with Huawei Cloud Object Storage Service (OBS)
+-  Cloud Integration**: Direct integration with Huawei Cloud Object Storage Service (OBS)
 - **🤖 Local LLM Inference**: Uses Ollama for private, secure text generation
 - **🔍 Multilingual Support**: Optimized for multilingual document processing
 - **💾 Persistent Storage**: ChromaDB for efficient vector storage and retrieval
