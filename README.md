@@ -66,7 +66,7 @@ A production-ready Retrieval-Augmented Generation (RAG) system that seamlessly i
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/enterprise-rag-system.git
+git clone https://github.com/cetinberkenes/enterprise-rag-system.git
 cd enterprise-rag-system
 ```
 
