@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # enterprise-rag-system
 =======
 # RAG System with Huawei Cloud Integration
