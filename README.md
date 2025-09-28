@@ -1,5 +1,3 @@
-# enterprise-rag-system
-=======
 # RAG System with Huawei Cloud Integration
 
 A production-ready Retrieval-Augmented Generation (RAG) system that seamlessly integrates with Huawei Cloud Object Storage Service (OBS) and local LLM inference using Ollama.
