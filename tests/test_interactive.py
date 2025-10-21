@@ -15,7 +15,7 @@ Features:
 - Performance monitoring
 - Error handling and recovery
 
-Author: Your Name
+
 Created: 2025
 License: MIT
 """
